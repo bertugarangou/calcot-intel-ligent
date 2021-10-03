@@ -1,10 +1,12 @@
 # Twitter per Calçot Intel·ligent
 Bot de Twitter amb Python per enviar twits.
 
+# NOTA
+ Actualment no és possibe degut a canvis de la API de Twitter amb el pas de V1 a V2.0.
+ 
+# DESCRIPCIÓ
 L'objectiu del projecte consisteix en crear un bot de twitter que permeti escriure twits modificant l'etiqueta d'ubicació (location label).
 
 És necessari crear un compte de Desenvolupador de Twitter per utilitzar l'API, crear una aplicació o un projecte amb una aplicació iobtenir les quatre claus d'accés (API KEY i API TOKEN) i editar el codi posant les claus entre les cometes simples (entre, sense borrar-les: `tweepy.OAuthHandler('123456789', '123456789')`).
 
 És possible que per poder escriure amb una etiqueta personalitzada s'hagi d'esperar a que es verifiqui l'API i pot tardar uns dies o setmanes en algun cas. En altres casos, el poc transit de l'API no permetrà verificar-la fins haver emés una certa quantitat de Twits o haver operat mitjançant l'API conciderablament.
-
-Actualment no és possible establir una ubicació o etiqueta de source personalitzada.
