@@ -2,7 +2,7 @@
 Bot de Twitter amb Python per enviar twits.
 
 # NOTA
- Actualment no és possibe degut a canvis de la API de Twitter amb el pas de V1 a V2.0.
+ Actualment no és possibe degut a canvis de la API de Twitter amb el pas de V1 a V2.0 .
  
 # DESCRIPCIÓ
 L'objectiu del projecte consisteix en crear un bot de twitter que permeti escriure twits modificant l'etiqueta d'ubicació (location label).
